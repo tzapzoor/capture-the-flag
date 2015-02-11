@@ -1,0 +1,4 @@
+C:\Users\tzap\Desktop\Constantin_Mihalache_si_Mateescu_Serban-Corneliu\client\client\bin\Debug\client.exe
+C:\Users\tzap\Desktop\Constantin_Mihalache_si_Mateescu_Serban-Corneliu\client\client\bin\Debug\client.pdb
+C:\Users\tzap\Desktop\Constantin_Mihalache_si_Mateescu_Serban-Corneliu\client\client\obj\x86\Debug\client.exe
+C:\Users\tzap\Desktop\Constantin_Mihalache_si_Mateescu_Serban-Corneliu\client\client\obj\x86\Debug\client.pdb

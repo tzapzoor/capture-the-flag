@@ -1,0 +1,19 @@
+C:\Users\tzap\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\tzap\AppData\Local\Temporary Projects\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\tzap\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\tzap\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\tzap\Documents\Visual Studio 2010\Projects\Server\Server\bin\Debug\Server.exe
+C:\Users\tzap\Documents\Visual Studio 2010\Projects\Server\Server\bin\Debug\Server.pdb
+C:\Users\tzap\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\tzap\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\tzap\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\USER\Desktop\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\USER\Desktop\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\USER\Desktop\Server\Server\bin\Debug\Server.exe
+C:\Users\USER\Desktop\Server\Server\bin\Debug\Server.pdb
+C:\Users\USER\Desktop\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\tzap\Desktop\Constantin_Mihalache_si_Mateescu_Serban-Corneliu\Server\Server\obj\x86\Debug\Server.exe
+C:\Users\tzap\Desktop\Constantin_Mihalache_si_Mateescu_Serban-Corneliu\Server\Server\obj\x86\Debug\Server.pdb
+C:\Users\tzap\Desktop\Constantin_Mihalache_si_Mateescu_Serban-Corneliu\Server\Server\bin\Debug\Server.exe
+C:\Users\tzap\Desktop\Constantin_Mihalache_si_Mateescu_Serban-Corneliu\Server\Server\bin\Debug\Server.pdb
+C:\Users\tzap\Desktop\Constantin_Mihalache_si_Mateescu_Serban-Corneliu\Server\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache

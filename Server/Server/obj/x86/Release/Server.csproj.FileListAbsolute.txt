@@ -1,0 +1,9 @@
+C:\Users\tzap\Documents\Visual Studio 2010\Projects\Server\Server\bin\Release\Server.exe
+C:\Users\tzap\Documents\Visual Studio 2010\Projects\Server\Server\bin\Release\Server.pdb
+C:\Users\tzap\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\Server.exe
+C:\Users\tzap\Documents\Visual Studio 2010\Projects\Server\Server\obj\x86\Release\Server.pdb
+C:\Users\USER\Desktop\Server\Server\bin\Release\Server.exe
+C:\Users\USER\Desktop\Server\Server\bin\Release\Server.pdb
+C:\Users\USER\Desktop\Server\Server\obj\x86\Release\Server.exe
+C:\Users\USER\Desktop\Server\Server\obj\x86\Release\Server.pdb
+C:\Users\USER\Desktop\Server\Server\obj\x86\Release\Server.csprojResolveAssemblyReference.cache
